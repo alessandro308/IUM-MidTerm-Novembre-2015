@@ -1,0 +1,18 @@
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.exe.config
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.XML
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.exe
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.pdb
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\FSharp.Core.dll
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\FSharp.Core.xml
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\it\FSharp.Core.resources.dll
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\obj\Debug\InterpolazioneMatrice.exe
+Z:\GitHub\InterpolazioneMatrice\InterpolazioneMatrice\obj\Debug\InterpolazioneMatrice.pdb
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.exe.config
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.XML
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.exe
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\InterpolazioneMatrice.pdb
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\FSharp.Core.dll
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\FSharp.Core.xml
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\bin\Debug\it\FSharp.Core.resources.dll
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\obj\Debug\InterpolazioneMatrice.exe
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 1\InterpolazioneMatrice\InterpolazioneMatrice\obj\Debug\InterpolazioneMatrice.pdb

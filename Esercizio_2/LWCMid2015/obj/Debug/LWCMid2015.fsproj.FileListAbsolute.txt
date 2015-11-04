@@ -1,0 +1,36 @@
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\LWCMid2015.exe.config
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\LWCMid2015.XML
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\LWCMid2015.exe
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\LWCMid2015.pdb
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\FSharp.Core.dll
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\FSharp.Core.xml
+Z:\GitHub\LWCMid2015\LWCMid2015\bin\Debug\it\FSharp.Core.resources.dll
+Z:\GitHub\LWCMid2015\LWCMid2015\obj\Debug\LWCMid2015.exe
+Z:\GitHub\LWCMid2015\LWCMid2015\obj\Debug\LWCMid2015.pdb
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.exe.config
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.XML
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.exe
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.pdb
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\FSharp.Core.dll
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\FSharp.Core.xml
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\bin\Debug\it\FSharp.Core.resources.dll
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\obj\Debug\LWCMid2015.exe
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 2\LWCMid2015\obj\Debug\LWCMid2015.pdb
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.exe.config
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.XML
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.exe
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.pdb
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\FSharp.Core.dll
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\FSharp.Core.xml
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\it\FSharp.Core.resources.dll
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\obj\Debug\LWCMid2015.exe
+X:\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\obj\Debug\LWCMid2015.pdb
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.exe.config
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.XML
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.exe
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\LWCMid2015.pdb
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\FSharp.Core.dll
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\FSharp.Core.xml
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\bin\Debug\it\FSharp.Core.resources.dll
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\obj\Debug\LWCMid2015.exe
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 2\LWCMid2015\obj\Debug\LWCMid2015.pdb
