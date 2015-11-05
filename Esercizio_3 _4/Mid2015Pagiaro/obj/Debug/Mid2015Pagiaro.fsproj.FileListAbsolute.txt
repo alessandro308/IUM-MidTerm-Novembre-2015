@@ -1,0 +1,27 @@
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.exe.config
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.XML
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.exe
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.pdb
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\FSharp.Core.dll
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\FSharp.Core.xml
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\bin\Debug\it\FSharp.Core.resources.dll
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\obj\Debug\Mid2015Pagiaro.exe
+Z:\GitHub\Mid2015Pagiaro\Mid2015Pagiaro\obj\Debug\Mid2015Pagiaro.pdb
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.exe.config
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.XML
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.exe
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.pdb
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\FSharp.Core.dll
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\FSharp.Core.xml
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\it\FSharp.Core.resources.dll
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\obj\Debug\Mid2015Pagiaro.exe
+Z:\GitHub\MidTerm 2016 Pagiaro\Esercizio 3 - 4\Mid2015Pagiaro\obj\Debug\Mid2015Pagiaro.pdb
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.exe.config
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.XML
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.exe
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\Mid2015Pagiaro.pdb
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\FSharp.Core.dll
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\FSharp.Core.xml
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\bin\Debug\it\FSharp.Core.resources.dll
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\obj\Debug\Mid2015Pagiaro.exe
+Z:\Desktop\MidTerm 2016 Pagiaro DEFINITIVO\Esercizio 3 - 4\Mid2015Pagiaro\obj\Debug\Mid2015Pagiaro.pdb
